@@ -13,11 +13,11 @@ The current version is 0.6.1. Please see details in [changelog](./changelog).
 * Terminal FB2 reader(termfb2): https://github.com/VladimirMarkelov/termfb2
 
 ## Documentation
-* ![Introduction](/docs/intro.md)
-* ![Getting started](/docs/hello.md)
-* ![Layout manager](/docs/layout.md)
-* ![Basic standrd control methods and properties](/docs/widget.md)
-* ![About Windows](/docs/window.md)
+* [Introduction](/docs/intro.md)
+* [Getting started](/docs/hello.md)
+* [Layout manager](/docs/layout.md)
+* [Basic standrd control methods and properties](/docs/widget.md)
+* [About Windows](/docs/window.md)
 
 ## The list of available controls
 * Window (Main control container - with maximize, window order and other window features)
